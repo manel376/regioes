@@ -1,0 +1,10 @@
+}else if{ (input === "3") 
+    if (pais.length === 0) {
+      console.log("Nenhum localizacao salva.");
+    } else { ;
+
+      console.log("esses sao as localizacoes salvas:");
+      for (let pais of estado) {
+
+      }
+      
